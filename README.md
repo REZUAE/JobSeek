@@ -22,7 +22,7 @@ By offering these use cases, the Job Portal project provides a comprehensive pla
 
 # UI/UX
 ![alt text](https://raw.githubusercontent.com/REZUAE/JobSeek/main/UIUX/UI2.png) 
-![alt text](https://raw.githubusercontent.com/REZUAE/JobSeek/main/UIUX/UI3.png) 
+![alt text](https://raw.githubusercontent.com/REZUAE/JobSeek/main/UIUX/ui3.png) 
 
 # Technologies used
 Python: The primary programming language used for developing the project. Python is known for its simplicity, readability, and extensive library support.
