@@ -4,6 +4,7 @@
 # Introduction
 The Job Portal project is a web application developed using Python and Django framework. It aims to provide a platform for job seekers to search and apply for job opportunities, as well as for employers to post job vacancies and manage applications. The project utilizes the powerful features of Django to create a robust and user-friendly job port
 # Use Case
+![alt text](https://raw.githubusercontent.com/REZUAE/JobSeek/main/UIUX/UI1.png) 
 The Job Portal project serves a variety of use cases for both job seekers and employers. These use cases are designed to cater to the specific needs of each user group. Here's a detailed explanation of the primary use cases for job seekers and employers:
 
 Job Seekers:
@@ -18,6 +19,9 @@ Manage Applications: Employers have access to a dashboard or interface where the
 Employer Profile: Employers have dedicated profiles within the job portal. These profiles allow them to showcase their company information, including the company name, logo, and other relevant details. Having an employer profile helps in establishing a strong brand presence and attracting potential candidates.
 
 By offering these use cases, the Job Portal project provides a comprehensive platform that connects job seekers with employers. It enables job seekers to search and apply for suitable job opportunities while allowing employers to efficiently manage their job listings and applications. The project aims to facilitate a seamless and effective job search and recruitment process for both parties involved.
+
+# UI/UX
+
 
 # Technologies used
 Python: The primary programming language used for developing the project. Python is known for its simplicity, readability, and extensive library support.
