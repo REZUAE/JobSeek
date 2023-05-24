@@ -21,7 +21,8 @@ Employer Profile: Employers have dedicated profiles within the job portal. These
 By offering these use cases, the Job Portal project provides a comprehensive platform that connects job seekers with employers. It enables job seekers to search and apply for suitable job opportunities while allowing employers to efficiently manage their job listings and applications. The project aims to facilitate a seamless and effective job search and recruitment process for both parties involved.
 
 # UI/UX
-
+![alt text](https://raw.githubusercontent.com/REZUAE/JobSeek/main/UIUX/UI2.png) 
+![alt text](https://raw.githubusercontent.com/REZUAE/JobSeek/main/UIUX/UI3.png) 
 
 # Technologies used
 Python: The primary programming language used for developing the project. Python is known for its simplicity, readability, and extensive library support.
